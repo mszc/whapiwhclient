@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ErpSql>
+	<oracleType>sidName</oracleType>
+	<pharmacyName>重庆市吉和药品有限公司23</pharmacyName>
+	<servicePath>http://localhost:8077/MyyaoxinOpenService</servicePath>
+	<sqlCharset>UTF-8</sqlCharset>
+<!-- 	<sqlIp>192.168.3.29</sqlIp>
+	<sqlLoginName>h2</sqlLoginName>
+	<sqlLoginPW>hydeesoft</sqlLoginPW>
+	<sqlName>hdwhcs</sqlName>
+	<sqlPort>1521</sqlPort>
+	<sqlType>Oracle</sqlType> -->
+
+	<sqlIp>127.0.0.1</sqlIp>
+	<sqlLoginName>sa</sqlLoginName>
+	<sqlLoginPW>123456</sqlLoginPW>
+	<sqlName>mydb</sqlName>
+	<sqlPort>1433</sqlPort>
+	<sqlType>SQL Server</sqlType>
+	<yywKey>0aXwmbpVt2xsDwAdt6zoUFLIoekcxo6n</yywKey>
+	<yywSecret>145949</yywSecret>
+</ErpSql>

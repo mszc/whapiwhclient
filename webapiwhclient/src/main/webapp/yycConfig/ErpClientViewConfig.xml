@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ErpClientViewConfig>
+	<custDataPane>0</custDataPane>
+	<customerPane>1</customerPane>
+	<exceptionOrderPanel>0</exceptionOrderPanel>
+	<orderCancelPanel>0</orderCancelPanel>
+	<orderIssuedPanel>1</orderIssuedPanel>
+	<orderReturnPanel>1</orderReturnPanel>
+	<productPane>1</productPane>
+	<productPlaceNo>0</productPlaceNo>
+	<productPricePane>1</productPricePane>
+	<productStockPane>1</productStockPane>
+</ErpClientViewConfig>

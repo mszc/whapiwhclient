@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webapiwhclient:war">
+    <output-path>$PROJECT_DIR$/webapiwhclient/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>webapiwhclient</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="webapiwhclient.war">
+      <element id="artifact" artifact-name="webapiwhclient:war exploded" />
+    </root>
+  </artifact>
+</component>
